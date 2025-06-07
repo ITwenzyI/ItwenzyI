@@ -15,7 +15,7 @@
 - Learn Python deeply during semester break
 - Start with TryHackMe and practical security challenges
 
-🔗 I'm always looking to learn more and build cool things – feel free to check out my repositories!
+🔗 I'm always looking to learn more and build cool things, so feel free to check out my repositories!
 
 ---
 
@@ -26,4 +26,4 @@
 
 🇩🇪 **Kurz auf Deutsch:**
 
-Ich bin Kilian, Student der medizinischen Informatik (2. Semester) mit einem starken Interesse an IT-Sicherheit im Gesundheitswesen. Ich dokumentiere hier meinen Lernfortschritt in C++, Python und Security. Mein Ziel: In der IT-Security eines Krankenhauses arbeiten und Systeme gegen echte Bedrohungen schützen.
+Hi, ich bin Kilian, studiere medizinischen Informatik (2. Semester) mit einem starken Interesse an IT-Sicherheit im Gesundheitswesen. Ich dokumentiere hier meinen Lernfortschritt in C++, Python und Security. Mein Ziel: In der IT-Security eines Krankenhauses arbeiten und Systeme gegen echte Bedrohungen schützen.
