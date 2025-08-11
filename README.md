@@ -6,12 +6,11 @@
 - Small university projects in C and C++
 - Private C++ projects to experiment with new ideas and improve my skills
 - Lua scripts from early game development experiments
-- Upcoming Python scripts for automation and security practice
+- Upcoming Python scripts for automation, security practice and some fun projects like Discord Bots
 
 🚀 My goal is to work in **IT security in the healthcare sector**, protecting critical systems and patient data from cyber threats.
 
 📚 Next steps:
-- Finish my C++ course & exam
 - Learn Python deeply during semester break
 
 🔗 I'm always looking to learn more and build cool things, so feel free to check out my repositories!
