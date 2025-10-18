@@ -5,13 +5,14 @@
 🛠️ I use my GitHub to track my learning journey. You'll find a mix of:
 - Small university projects in C and C++
 - Private C++ projects to experiment with new ideas and improve my skills
-- Lua scripts from early game development experiments
-- Upcoming Python scripts for automation, security practice and some fun projects like Discord Bots
+- Python scripts
+- Lua scripts from early game development experiments in FiveM
 
-🚀 My goal is to work in **IT security in the healthcare sector**, protecting critical systems and patient data from cyber threats.
+🚀 My goal is to work in **IT security**, protecting critical systems from cyber threats.
 
 📚 Next steps:
-- Learn Python deeply during semester break
+- Become better in C++ and Python
+- Learn SQL
 
 🔗 I'm always looking to learn more and build cool things, so feel free to check out my repositories!
 
@@ -24,4 +25,4 @@
 
 🇩🇪 **Kurz auf Deutsch:**
 
-Hi, ich bin Kilian, studiere medizinischen Informatik (3. Semester) mit einem starken Interesse an IT-Sicherheit im Gesundheitswesen. Ich dokumentiere hier meinen Lernfortschritt in C++, Python und Security.
+Hi, ich bin Kilian, studiere medizinischen Informatik (3. Semester) mit einem starken Interesse an IT-Sicherheit. Ich dokumentiere hier meinen Lernfortschritt in C++, Python und später SQL.
