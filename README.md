@@ -1,28 +1,48 @@
-# Hi there 👋 I'm Kilian
+# 👋 Hey, I'm Kilian
 
-🎓 I'm a medical informatics student (3nd semester) from Germany with a strong interest in **cybersecurity** and system programming. Currently improving my skills in **C++** and dive deep into **Python** and cybersecurity tools.
-
-🛠️ I use my GitHub to track my learning journey. You'll find a mix of:
-- Small university projects in C and C++
-- Private C++ projects to experiment with new ideas and improve my skills
-- Python scripts
-- Lua scripts from early game development experiments in FiveM
-
-🚀 My goal is to work in **IT security**, protecting critical systems from cyber threats.
-
-📚 Next steps:
-- Become better in C++ and Python
-- Learn SQL
-
-🔗 I'm always looking to learn more and build cool things, so feel free to check out my repositories!
+🎓 **Medical Informatics Student (3rd Semester)** from Germany  
+🔐 Passionate about **IT Security**, **C++ Development**, and **system-level programming**
 
 ---
 
-📫 Feel free to reach out or connect:
+## 🧠 Currently Learning
+- **Advanced C++** (modular design, templates, modern build systems)
+- **Databases & SQL** (SQLite + C++ integration, SQL basics)
+- **Python for backend development** (APIs, FastAPI, SQLModel)
+- **Cybersecurity fundamentals** (network security, OS security)
+
+---
+
+## 🔧 Currently Working On
+- 🗂️ **Electronic Patient Record (EPR) System in C++**  
+  Modular, role-based access, file handling
+
+- 🏋️‍♂️ **Workout & Health Tracker (Python + FastAPI)**  
+  API-first backend to manage workouts, progression, and health metrics
+
+- 📚 **Notes & small utilities for university coursework**, mainly in C++ and Python
+
+---
+
+## 📌 Highlights from my Repositories
+- `cpp-patient-record`: A modular simulation of an EPR system in C++
+- `workout-tracker-fastapi`: REST API for tracking fitness and health stats
+- `helpbookcpp`: Personal knowledge base for C++ concepts
+- Various university assignments (algorithms, systems programming, etc.)
+
+---
+
+## 💡 Goals for 2025
+- Get more practical experience in **IT Security**
+- Contribute to open-source projects in C++ or Python
+- Build portfolio projects to support applications for **Werkstudent** positions in Regensburg
+
+---
+
+## 🌐 Connect & Explore
 - GitHub: [github.com/ITwenzyI](https://github.com/ITwenzyI)
 
 ---
 
-🇩🇪 **Kurz auf Deutsch:**
-
-Hi, ich bin Kilian, studiere medizinischen Informatik (3. Semester) mit einem starken Interesse an IT-Sicherheit. Ich dokumentiere hier meinen Lernfortschritt in C++, Python und später SQL.
+🇩🇪 **Kurz auf Deutsch:**  
+Ich bin Kilian, Studiere Medizinische Informatik im 3. Semester und fokussiere mich auf IT-Sicherheit und moderne Softwareentwicklung in C++ und Python. Mein GitHub dient als Dokumentation meines Lern- und Projektfortschritts. Immer offen für Austausch, neue Projekte und Ideen.
