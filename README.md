@@ -17,8 +17,8 @@
 - 🗂️ **Electronic Patient Record (EPR) System in C++**  
   Modular, role-based access, file handling
 
-- 🏋️‍♂️ **Workout & Health Tracker (Python + FastAPI)**  
-  API-first backend to manage workouts, progression, and health metrics
+- 🌐💾 **C++ Helpbook Website (Hilfsbuch)**  
+  A structured, searchable C++ reference I built for my studies.  
 
 - 📚 **Notes & small utilities for university coursework**, mainly in C++ and Python
 
