@@ -7,15 +7,21 @@
 
 ## 🧠 Currently Learning
 - **Advanced C++** (modular design, templates, modern build systems)
-- **Databases & SQL** (SQLite + C++ integration, SQL basics)
-- **Python for backend development** (APIs, FastAPI, SQLModel)
-- **Cybersecurity fundamentals** (network security, OS security)
+- **Databases & SQL** (SQLite integration in C++, relational basics)
+- **Git** (CLI workflow, branching basics)
+
+---
+
+## 🔜 Planned Learning Focus
+- **Python backend development** (FastAPI, SQLModel, REST APIs)
+- **Shell scripting** (Bash and PowerShell for automation)
+- **LaTeX** (technical and university documents)
 
 ---
 
 ## 🔧 Currently Working On
 - 🗂️ **Electronic Patient Record (EPR) System in C++**  
-  Modular, role-based access, file handling
+  Modular architecture, role-based access, file I/O
 
 - 🌐💾 **C++ Helpbook Website (Hilfsbuch)**  
   A structured, searchable C++ reference I built for my studies.  
@@ -25,16 +31,15 @@
 ---
 
 ## 📌 Highlights from my Repositories
-- `cpp-patient-record`: A modular simulation of an EPR system in C++
-- `workout-tracker-fastapi`: REST API for tracking fitness and health stats
-- `helpbookcpp`: Personal knowledge base for C++ concepts
+- `cpp-Electronic-Patient-Record`: A modular simulation of an EPR system in C++
+- `cpp-hilfsbuch-website`: Personal knowledge base for C++ concepts
 - Various university assignments (algorithms, systems programming, etc.)
 
 ---
 
-## 💡 Goals for 2025
-- Get more practical experience in **IT Security**
-- Contribute to open-source projects in C++ or Python
+## 💡 Goals for 2026
+- Learn **Cybersecurity fundamentals** (network security, OS security)
+- Contribute to open-source projects in C++
 - Build portfolio projects to support applications for **Werkstudent** positions in Regensburg
 
 ---
@@ -45,7 +50,7 @@
 ---
 
 🇩🇪 **Kurz auf Deutsch:**  
-Ich bin Kilian, Studiere Medizinische Informatik im 3. Semester und fokussiere mich auf IT-Sicherheit und moderne Softwareentwicklung in C++ und Python. Mein GitHub dient als Dokumentation meines Lern- und Projektfortschritts. Immer offen für Austausch, neue Projekte und Ideen.
+Ich bin Kilian, studiere Medizinische Informatik im 3. Semester und fokussiere mich auf IT-Sicherheit und moderne Softwareentwicklung in C++ und Python. Mein GitHub dient als Dokumentation meines Lern- und Projektfortschritts. Immer offen für Austausch, neue Projekte und Ideen.
 
 
 
@@ -58,9 +63,3 @@ Ich bin Kilian, Studiere Medizinische Informatik im 3. Semester und fokussiere m
 ![](https://github-readme-stats.vercel.app/api?username=ItwenzyI&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ItwenzyI&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ItwenzyI&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ItwenzyI&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=ItwenzyI&icon=0&color=0)](https://visitcount.itsvg.in)
