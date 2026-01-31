@@ -1,46 +1,50 @@
 # 👋 Hey, I'm Kilian
 
-🎓 **Medical Informatics Student (3rd Semester)** from Germany  
-🔐 Passionate about **IT Security**, **C++ Development**, and **system-level programming**
+🎓 **Medical Informatics student (3rd semester)** in Germany  
+💻 Focused on **C++**, **databases**, and **system-level programming**  
+🔐 Strong interest in **IT security**
 
 ---
 
-## 🧠 Currently Learning
-- **Advanced C++** (modular design, templates, modern build systems)
-- **Databases & SQL** (SQLite integration in C++, relational basics)
+## 🧠 Current Focus
+- **Modern C++** (clean architecture, RAII, modular design)
+- **SQLite & SQL** (relational modeling, prepared statements)
 - **Git** (CLI workflow, branching basics)
 
 ---
 
-## 🔜 Planned Learning Focus
-- **Python backend development** (FastAPI, SQLModel, REST APIs)
-- **Shell scripting** (Bash and PowerShell for automation)
-- **LaTeX** (technical and university documents)
+## 🔜 Planned Learning
+- **Qt / GUI basics** for simple C++ desktop applications
+- Combining **SQLite with GUI applications** in C++
+- Shell scripting (**Bash, PowerShell**) for automation
+- **Linux basics** (shell, processes, file system, permissions)
+- **LaTeX** for technical and academic documents
+
 
 ---
 
-## 🔧 Currently Working On
-- 🗂️ **Electronic Patient Record (EPR) System in C++**  
-  Modular architecture, role-based access, file I/O
-
+## 🔧 Current Projects
 - 🌐💾 **C++ Helpbook Website (Hilfsbuch)**  
-  A structured, searchable C++ reference I built for my studies.  
+  A structured, searchable C++ knowledge base created alongside my studies.
 
-- 📚 **Notes & small utilities for university coursework**, mainly in C++ and Python
+- 💊 **Medication Plan (C++ · SQLite)**  
+  A CLI application demonstrating relational database design, SQLite integration, and clean C++ abstractions.
+
+- 📚 **University-related tools and notes**, mainly in C++
 
 ---
 
-## 📌 Highlights from my Repositories
-- `cpp-Electronic-Patient-Record`: A modular simulation of an EPR system in C++
-- `cpp-hilfsbuch-website`: Personal knowledge base for C++ concepts
-- Various university assignments (algorithms, systems programming, etc.)
+## 📌 Repository Highlights
+- `cpp-Electronic-Patient-Record` – Modular simulation of an electronic patient record system in C++
+- `cpp-hilfsbuch-website` – Personal reference for C++ concepts and examples
+- Selected university assignments (algorithms, data structures, systems programming)
 
 ---
 
 ## 💡 Goals for 2026
-- Learn **Cybersecurity fundamentals** (network security, OS security)
-- Contribute to open-source projects in C++
-- Build portfolio projects to support applications for **Werkstudent** positions in Regensburg
+- Strengthen **modern C++** skills (architecture, resource management, testing)
+- Learn **cybersecurity fundamentals** (network and OS security)
+- Build well-documented projects to support **Werkstudent** applications in Regensburg
 
 ---
 
@@ -50,7 +54,8 @@
 ---
 
 🇩🇪 **Kurz auf Deutsch:**  
-Ich bin Kilian, studiere Medizinische Informatik im 3. Semester und fokussiere mich auf IT-Sicherheit und moderne Softwareentwicklung in C++ und Python. Mein GitHub dient als Dokumentation meines Lern- und Projektfortschritts. Immer offen für Austausch, neue Projekte und Ideen.
+Ich bin Kilian, studiere Medizinische Informatik im 3. Semester und fokussiere mich auf C++, Datenbanken und IT-Sicherheit.  
+Mein GitHub dokumentiert meinen Lernfortschritt und meine Projekte.
 
 
 
