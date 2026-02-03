@@ -37,6 +37,7 @@
 ## 📌 Repository Highlights
 - `cpp-Electronic-Patient-Record` – Modular simulation of an electronic patient record system in C++
 - `cpp-hilfsbuch-website` – Personal reference for C++ concepts and examples
+- `cpp-casino-blackjack` – Simple playable Blackjack game in C++ (console-based)
 - Selected university assignments (algorithms, data structures, systems programming)
 
 ---
