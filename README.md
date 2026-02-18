@@ -18,7 +18,6 @@
 - Combining **SQLite with GUI applications** in C++
 - Shell scripting (**Bash, PowerShell**) for automation
 - **Linux basics** (shell, processes, file system, permissions)
-- **LaTeX** for technical and academic documents
 
 
 ---
@@ -30,15 +29,12 @@
 - 💊 **Medication Plan (C++ · SQLite)**  
   A CLI application demonstrating relational database design, SQLite integration, and clean C++ abstractions.
 
-- 📚 **University-related tools and notes**, mainly in C++
-
 ---
 
 ## 📌 Repository Highlights
 - `cpp-Electronic-Patient-Record` – Modular simulation of an electronic patient record system in C++
 - `cpp-hilfsbuch-website` – Personal reference for C++ concepts and examples
 - `cpp-casino-blackjack` – Simple playable Blackjack game in C++ (console-based)
-- Selected university assignments (algorithms, data structures, systems programming)
 
 ---
 
