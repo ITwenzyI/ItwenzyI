@@ -2,7 +2,6 @@
 
 🎓 **Medical Informatics student (3rd semester)** in Germany  
 💻 Focused on **C++**, **databases**, and **system-level programming**  
-🔐 Strong interest in **IT security**
 
 ---
 
