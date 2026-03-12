@@ -13,7 +13,6 @@ Focused on **C++**, **databases**, and **system-level programming**
 ---
 
 ## 🔜 Planned Learning
-- **FTXUI** for TUI based CLI tools (in progress)
 
 ---
 
