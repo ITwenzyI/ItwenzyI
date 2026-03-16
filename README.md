@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Kilian
 
 🎓 **Medical Informatics student (4th semester)** in Germany  
-Focused on **C++**, **databases**, and **system-level programming**  
+Focused on **modern C++**, **databases**, and **software architecture**
 
 ---
 
@@ -13,6 +13,8 @@ Focused on **C++**, **databases**, and **system-level programming**
 ---
 
 ## 🔜 Planned Learning
+- **Python** for data processing and database related tasks
+- Strengthening **SQL** and **relational database design**
 
 ---
 
@@ -28,7 +30,7 @@ Focused on **C++**, **databases**, and **system-level programming**
 ## 💡 Goals for 2026
 - Strengthen **modern C++** skills (architecture, resource management, testing)
 - Expand **SQL fundamentals**
-- Actively building a C++ and database focused portfolio for Werkstudent positions in software and medical IT.
+- Start working more with Python for data and database related workflows
 
 ---
 
